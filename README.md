@@ -3,7 +3,7 @@
 ## Install by homebrew
 
 ```bash
-brew tap itooww/ax
+brew tap itooww/tap
 brew install ax
 ```
 
