@@ -1,5 +1,12 @@
 # ax
 
+## Install by homebrew
+
+```bash
+brew tap itooww/ax
+brew install ax
+```
+
 ## Usage
 
 ```bash
