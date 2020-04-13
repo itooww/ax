@@ -30,7 +30,7 @@ brews:
   - description: "jwt decoder."
     github:
       owner: itooww
-      name: homebrew-tap
+      name: homebrew-ax
     homepage: "https://github.com/itooww/ax/"
     install: |
       bin.install "ax"
